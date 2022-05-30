@@ -9,7 +9,7 @@ import time
 st.title("Streamlit 超入門")
 # st.write("Interactive Widgets")
 st.write("プログレスバーの表示")
-"Start!"
+"Start!!"
 
 latest_iteration = st.empty()
 bar = st.progress(0)
